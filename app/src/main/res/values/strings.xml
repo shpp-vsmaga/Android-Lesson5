@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson5</string>
+    <string name="btnDialogActivityLabel">New Dialog Activity</string>
+    <string name="btnNewActivityLabel">New Activity</string>
+    <string name="btnMainActivityLabel">Main Activity</string>
+    <string name="okText">OK</string>
+    <string name="helloText">Hello!!!</string>
+</resources>
